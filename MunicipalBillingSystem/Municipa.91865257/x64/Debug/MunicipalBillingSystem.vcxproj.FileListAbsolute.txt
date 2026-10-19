@@ -1,0 +1,3 @@
+C:\Users\USER\OneDrive - Tshwane University of Technology\Desktop\Programming Project\MunicipalBillingSystem\Municipa.91865257\x64\Debug\MunicipalBillingSystem.vcxproj.AssemblyReference.cache
+C:\Users\USER\OneDrive - Tshwane University of Technology\Desktop\Programming Project\MunicipalBillingSystem\Municipa.91865257\x64\Debug\MunicipalBillingSystem.Form1.resources
+C:\Users\USER\OneDrive - Tshwane University of Technology\Desktop\Programming Project\MunicipalBillingSystem\Municipa.91865257\x64\Debug\MunicipalBillingSystem.vcxproj.GenerateResource.cache

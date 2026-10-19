@@ -1,0 +1,7 @@
+﻿  Customer.cpp
+  MunicipalBillingSystem.cpp
+  Generating Code...
+C:\Users\USER\OneDrive - Tshwane University of Technology\Desktop\MunicipalBillingSystem\MunicipalBillingSystem.cpp(14,14): error C2512: 'Customer': no appropriate default constructor available
+      C:\Users\USER\OneDrive - Tshwane University of Technology\Desktop\MunicipalBillingSystem\Customer.h(8,7):
+      see declaration of 'Customer'
+  
